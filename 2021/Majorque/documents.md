@@ -1,5 +1,14 @@
 # Informations générales
 
+## Liste des documents
+- [ ] cartes d'identités
+- [ ] cartes mutuelles
+- [ ] cartes assurances maladie
+- [ ] cartes VISA
+- [ ] cartes de banques
+- [ ] liquidités
+- [ ] 
+
 ## Détails voyage
 Description | liens
 ---------- | ----------
