@@ -3,8 +3,7 @@
 ## Détails voyage
 Description | liens
 ---------- | ----------
-google.com/travel/trips | 
-https://www.google.com/travel/trips/trip?msg_id=msg-f%3A1709989330951763239&authuser=0&hl=fr&dest_src=wgm
+google.com/travel/trips | https://www.google.com/travel/trips/trip?msg_id=msg-f%3A1709989330951763239&authuser=0&hl=fr&dest_src=wgm
 
 ## Administration
 
