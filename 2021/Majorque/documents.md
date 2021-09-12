@@ -1,15 +1,4 @@
 # Informations générales
-
-## Identité 
-
-### numéro d'identification nationales
-Jeremy - ```890627 249 76```
-
-Anaïs - ```911119 138 19```
-
-Iris - ```2001101 114 21```
-
-
 ## Liste des documents
 - [ ] cartes d'identités - Jeremy
 - [ ] cartes d'identités - Anaïs
@@ -25,6 +14,14 @@ Iris - ```2001101 114 21```
 - [ ] cartes VISA
 - [ ] cartes de banques
 - [ ] liquidités
+
+## Identité 
+### numéro d'identification nationales
+Jeremy - ```890627 249 76```
+
+Anaïs - ```911119 138 19```
+
+Iris - ```2001101 114 21```
 
 ## Détails voyage
 Description | liens
