@@ -34,7 +34,7 @@ google.com/travel/trips | https://www.google.com/travel/trips/trip?msg_id=msg-f%
 Description | liens
 ---------- | ----------
 eVoucher - documents de voyage | https://drive.google.com/drive/folders/1HQJom89yi6F1_pGBsQvsw_Oa1FR2OXHw
-Formulaires FSC covid | https://www.spth.gob.es/
+Formulaires FSC covid - faq | https://www.spth.gob.es/
 passeport | https://drive.google.com/drive/folders/1gxuSYjlqFg81H4l1qhQ2cUCiMz8ZKRVV
 
 ## Informations Covid
