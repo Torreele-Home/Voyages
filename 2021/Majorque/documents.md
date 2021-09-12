@@ -1,7 +1,9 @@
 # Informations générales
 
 ## Liste des documents
-- [ ] cartes d'identités
+- [ ] cartes d'identités - Jeremy
+- [ ] cartes d'identités - Anaïs
+- [ ] cartes d'identités - Iris
 - [ ] boardingass - Jeremy
 - [ ] boardingass - Anaïs
 - [ ] boardingass - Iris
