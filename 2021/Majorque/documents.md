@@ -2,6 +2,9 @@
 
 ## Liste des documents
 - [ ] cartes d'identités
+- [ ] boardingass - Jeremy
+- [ ] boardingass - Anaïs
+- [ ] boardingass - Iris
 - [ ] Spain Travel Health - Jeremy
 - [ ] Spain Travel Health - Anaïs
 - [ ] Spain Travel Health - Iris
