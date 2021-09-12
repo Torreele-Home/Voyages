@@ -31,26 +31,21 @@ Iris - ```2001101 114 21```
 - Entrée: 12/09/2021
 - Sortie: 20/09/2021
 
-Description | liens
----------- | ----------
-parking | https://ci4.googleusercontent.com/proxy/BxjDdtcji6ZjUnDe3FTp_g1pJa2adBjBFQujATQu-MhmvBM6XSRx-uPiezfqCLrFODOceSJeiVrSC4Yn4BegBua1=s0-d-e1-ft#https://qrcode.luxair.lu/LTZ4AB151417/image.png
-bording pass | https://drive.google.com/file/d/1Mzv8ony_P_UBc2zLxf4ydny5viz1XmXf/view?usp=sharing
-eVoucher - documents de voyage | https://drive.google.com/file/d/1i8u_bKY-Ydlt7sea6wsQKNqOFKww_kZ1/view?usp=sharing
-google.com/travel/trips | https://www.google.com/travel/trips/trip?msg_id=msg-f%3A1709989330951763239&authuser=0&hl=fr&dest_src=wgm
-
 ## Administration
 Description | liens
 ---------- | ----------
-eVoucher - documents de voyage | https://drive.google.com/file/d/1i8u_bKY-Ydlt7sea6wsQKNqOFKww_kZ1/view?usp=sharing
+boarding pass | https://drive.google.com/file/d/1Mzv8ony_P_UBc2zLxf4ydny5viz1XmXf/view?usp=sharing
 spth Anais | https://drive.google.com/file/d/1b2r1T4gPbBXEn0z1D4JM1hCBKHCqzO_M/view?usp=sharing
 spth Jeremy | https://drive.google.com/file/d/1qDurIR82humtRK3_IAnid9RZ0oOrbt4w/view?usp=sharing
-Formulaires FSC covid - faq | https://www.spth.gob.es/
+eVoucher - documents de voyage | https://drive.google.com/file/d/1i8u_bKY-Ydlt7sea6wsQKNqOFKww_kZ1/view?usp=sharing
 passeport | https://drive.google.com/drive/folders/1gxuSYjlqFg81H4l1qhQ2cUCiMz8ZKRVV
+google.com/travel/trips | https://www.google.com/travel/trips/trip?msg_id=msg-f%3A1709989330951763239&authuser=0&hl=fr&dest_src=wgm
 
 ## Informations Covid
 Description | liens
 ---------- | ----------
 Règles d'entrée au Luxembourg | https://www.luxairtours.lu/fr/offres/reglementations-dentree-et-programme-de-vols
+Formulaires FSC covid - faq | https://www.spth.gob.es/
 Aéroport | https://www.icao.int/safety/Pages/COVID-19-Airport-Status.aspx
 Carte europe | https://www.iatatravelcentre.com/world.php
 
