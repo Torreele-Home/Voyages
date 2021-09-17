@@ -34,7 +34,8 @@ Iris - ```2001101 114 21```
 ## Administration
 Description | liens
 ---------- | ----------
-boarding pass | 
+boarding pass | https://checkin.si.amadeus.net/1ASIHSSCWEBLG/sscwlg/boardingPass.pdf?SITK=H6B1HZKGVT00110BNDB17N5H0012&SITK2=H6B1HZKGVT00110BNDB17N5H0012&actionprintBoardingPass=Print&JsonMode=Y&Redirected=true&type=W&%23=null&step=4&ln=fr
+boarding pass (google drive) | 
 spth Anais | 
 spth Jeremy | 
 eVoucher - documents de voyage | https://drive.google.com/file/d/1i8u_bKY-Ydlt7sea6wsQKNqOFKww_kZ1/view?usp=sharing
