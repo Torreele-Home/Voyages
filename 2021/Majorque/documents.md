@@ -8,7 +8,6 @@
 - [ ] boardingass - Iris
 - [ ] Spain Travel Health - Jeremy
 - [ ] Spain Travel Health - Anaïs
-- [ ] Spain Travel Health - Iris
 - [ ] cartes mutuelles
 - [ ] cartes assurances maladie
 - [ ] cartes VISA
